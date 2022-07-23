@@ -9,5 +9,6 @@ public class noArgs {
         arr.add(2);
         arr.add(3);
         System.out.println(arr.get(1));
+        System.out.println("sainimu");
     }
 }
