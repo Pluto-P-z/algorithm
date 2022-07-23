@@ -11,6 +11,7 @@ public class noArgs {
         System.out.println(arr.get(1));
         System.out.println("sainimu");
         System.out.println("sainimu2");
+        System.out.println("test agian");
         
     }
 }
