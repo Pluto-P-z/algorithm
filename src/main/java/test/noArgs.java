@@ -10,5 +10,7 @@ public class noArgs {
         arr.add(3);
         System.out.println(arr.get(1));
         System.out.println("sainimu");
+        System.out.println("sainimu2");
+        
     }
 }
